@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T20:33:22.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="q5IlRptunkGaEizDbQmI" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T20:43:33.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="S6tqIG__8GROgC1wz3c7" version="20.8.20" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="655" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="931" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -56,16 +56,37 @@
           <mxGeometry x="160" y="440" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Au55FGA9Pkdlzi18izdJ-14" value="乡村文化数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="660" width="150" height="60" as="geometry" />
+          <mxGeometry x="295" y="800" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Au55FGA9Pkdlzi18izdJ-15" value="用户调研" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="540" width="150" height="60" as="geometry" />
+          <mxGeometry x="295" y="585" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Au55FGA9Pkdlzi18izdJ-16" value="交互系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="780" width="150" height="60" as="geometry" />
+          <mxGeometry x="160" y="1220" width="475" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Au55FGA9Pkdlzi18izdJ-17" value="用户反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="900" width="150" height="60" as="geometry" />
+          <mxGeometry x="160" y="1340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Au55FGA9Pkdlzi18izdJ-18" value="用户体验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1340" width="485" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Au55FGA9Pkdlzi18izdJ-20" value="访谈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="690" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Au55FGA9Pkdlzi18izdJ-21" value="问卷调查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="690" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Au55FGA9Pkdlzi18izdJ-22" value="Workshop实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="690" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Au55FGA9Pkdlzi18izdJ-23" value="文字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="920" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Au55FGA9Pkdlzi18izdJ-24" value="图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="920" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Au55FGA9Pkdlzi18izdJ-25" value="Workshop实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="920" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
